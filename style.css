@@ -1219,7 +1219,7 @@ header{
     font-size: 22px;
     font-style: normal;
     font-weight: 600;
-    cursor: pointer;
+    text-decoration: none;
 }
 .image_nft{
     width: 40px;
