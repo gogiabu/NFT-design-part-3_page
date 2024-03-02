@@ -2732,12 +2732,14 @@ form{
         height: 34px !important;
     }
     .container_2_card_price_box{
+        margin-top: -10px !important;
         width: 137.5px !important;
     }
     .container_2_card_price_2{
         height: 13px !important;
     }
     .container_2_card_price_box_2{
+        margin-top: -10px !important;
         width: 137.5px !important;
     }
     .container_2_card_price_4{
@@ -2748,6 +2750,7 @@ form{
     }
     .section_5_see_all_mobile{
         display: flex  !important;
+        text-decoration: none;
     }
     /*section 6 image bacgraund*/
     .desktop_section_6_backgraund{
